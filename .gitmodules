@@ -305,9 +305,9 @@
 	branch = boots-1.80.0
 [submodule "build"]
 	path = tools/build
-	url = https://github.com/boostorg/build.git
+	url = https://github.com/Hexagon-HTC/b2.git
 	fetchRecurseSubmodules = on-demand
-	branch = boots-1.80.0
+	branch = p3dr/1.80.0
 [submodule "quickbook"]
 	path = tools/quickbook
 	url = https://github.com/boostorg/quickbook.git
