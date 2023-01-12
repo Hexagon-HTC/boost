@@ -210,7 +210,7 @@ rule tag ( name : type ? : property-set )
           ! [ $(property-set).get <target-os> ] in windows cygwin darwin aix &&
           ! [ $(property-set).get <toolset> ] in pgi
         {
-            result = $(result).$(BOOST_VERSION)  ;
+            result = $(result)  ;
         }
 
         return $(result) ;
