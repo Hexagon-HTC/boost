@@ -120,7 +120,7 @@
 	branch = .
 [submodule "thread"]
 	path = libs/thread
-	url = https://github.com/boostorg/thread.git
+	url = https://github.com/Hexagon-HTC/thread.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "tokenizer"]
