@@ -715,9 +715,9 @@
 	branch = boots-1.80.0
 [submodule "boost_install"]
 	path = tools/boost_install
-	url = https://github.com/boostorg/boost_install.git
+	url = https://github.com/Hexagon-HTC/boost_install.git
 	fetchRecurseSubmodules = on-demand
-	branch = boots-1.80.0
+	branch = p3dr/1.80.0
 [submodule "outcome"]
 	path = libs/outcome
 	url = https://github.com/boostorg/outcome.git
