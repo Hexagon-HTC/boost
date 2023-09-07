@@ -55,7 +55,7 @@
 	branch = boots-1.80.0
 [submodule "config"]
 	path = libs/config
-	url = https://github.com/boostorg/config.git
+	url = https://github.com/Hexagon-HTC/boost_config.git
 	fetchRecurseSubmodules = on-demand
 	branch = boots-1.80.0
 [submodule "log"]
@@ -580,7 +580,7 @@
 	branch = boots-1.80.0
 [submodule "winapi"]
 	path = libs/winapi
-	url = https://github.com/boostorg/winapi.git
+	url = https://github.com/Hexagon-HTC/boost_winapi.git
 	fetchRecurseSubmodules = on-demand
 	branch = boots-1.80.0
 [submodule "boostdep"]
